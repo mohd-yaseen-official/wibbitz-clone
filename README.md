@@ -1,18 +1,16 @@
 # Wibbitz Homepage Clone
-This project is a front-end clone of the Wibbitz (now Brightcove Create) homepage. It aims to replicate the visual design and layout of the original website using HTML, CSS, and JavaScript.
+This project is a front-end clone of the Wibbitz (now Brightcove Create) homepage. It aims to replicate the visual design and layout of the original website using HTML, CSS.
 
 ## Features
 
 * Accurate visual representation of the Wibbitz (Brightcove Create) homepage design (as of the time of creation).
 * Clean and well-structured HTML for semantic markup.
 * Organized CSS for styling and layout.
-* Basic JavaScript for interactive elements (if any).
   
 ## Technologies Used
 
 * HTML5
 * CSS3
-* JavaScript (for basic interactivity)
 
 ## Disclaimer
 
